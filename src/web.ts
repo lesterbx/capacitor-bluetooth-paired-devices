@@ -9,7 +9,7 @@ export class BluetoothPairedDevicesWeb extends WebPlugin implements BluetoothPai
     })
   }
 
-  getPairedDevices(): PairedDevices {
+  getPairedDevices(): Promise<PairedDevices> {
     throw new Error('Not implemented on web.')
   }
 }
