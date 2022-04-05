@@ -1,4 +1,4 @@
-# Capacitor Bluetooth Paired Plugin
+# Capacitor Bluetooth Paired Devices Plugin
 
 A client implementation for fetching the paired bluetooth devices
 
