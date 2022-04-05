@@ -1,6 +1,6 @@
-# Capacitor Bluetooth Serial Plugin
+# Capacitor Bluetooth Paired Plugin
 
-A client implementation for interacting with Bluetooth
+A client implementation for fetching the paired bluetooth devices
 
 Supported platforms
 
